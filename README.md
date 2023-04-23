@@ -47,3 +47,8 @@ http://127.0.0.1:5000/
 The generated `summary.html` file contains the summarized articles, organized by query and URL. Each summary is presented as a list item, and the original article URL is provided as a hyperlink.
 
 The Flask web server serves the `summary.html` file, allowing you to access the summarized articles through a web browser.
+
+## License
+This project is licensed under the GNU General Public License v3.0 (GPLv3). This means that you are free to use, modify, and distribute this code, but any modifications or derivative works must also be licensed under the GPLv3. By using or contributing to this project, you agree to abide by the terms of the GPLv3.
+
+I am grateful for your interest in this project, and any suggestions or contributions are always welcome. If you have any ideas for improvements or encounter any issues, please feel free to open an issue or submit a pull request on GitHub.
